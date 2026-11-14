@@ -130,7 +130,9 @@ topic unless the user wants to practice them.
 
 The user's terminal can't scroll, so long replies get lost. Keep chat replies to a few lines plus
 the key code. Put any multi-part step (explanation, task, expected result, commands to run) in the
-subject's `.docs/current-step.md`, overwrite it for each new step, and tell the user to open it.
+subject's `.docs/current-step.md`, overwrite it for each new step, then send it to the user with the `SendUserFile` tool
+(`display: "render"`) so they can read it in the app without going to GitHub. Do the same
+whenever they ask to see a doc. If that tool isn't available, tell them the file's path.
 
 ## End-of-day wrap-up
 
