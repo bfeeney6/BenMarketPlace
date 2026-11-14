@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "ben-marketplace": {
+      "source": { "source": "github", "repo": "bfeeney6/BenMarketPlace" }
+    }
+  },
+  "enabledPlugins": {
+    "ben-skills@ben-marketplace": true
+  }
+}
