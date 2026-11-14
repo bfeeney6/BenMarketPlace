@@ -1,0 +1,12 @@
+{
+  "name": "ben-marketplace",
+  "owner": { "name": "Ben Feeney" },
+  "metadata": { "description": "Ben's personal Claude Code skills" },
+  "plugins": [
+    {
+      "name": "ben-skills",
+      "source": "./plugins/ben-skills",
+      "description": "Personal skills: teach (step-by-step tutoring) and watch (video understanding)"
+    }
+  ]
+}
