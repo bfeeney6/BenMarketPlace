@@ -89,6 +89,12 @@ screen, such as "make a basic omelette this week". Give the ingredients/tools, t
 went wrong (too salty, burnt, runny...), and record it in the session notes. Mark the concept done
 once they've tried the practice, or when they say to move on.
 
+**The user learns visually and doesn't like long instructions.** For hands-on subjects, lead each
+step with a video: a YouTube search link for the exact technique
+(`https://www.youtube.com/results?search_query=<words+joined+with+plus>`; don't guess at specific
+video links), plus "pick one under 3 minutes". Then give at most 4–5 one-line "look out for" points
+and a one-line practice task. No paragraphs.
+
 Practice files are scratch space that gets overwritten. **Never read them to work out what has
 been taught**, because they don't reflect it. Use the progress file and `.docs/`.
 
